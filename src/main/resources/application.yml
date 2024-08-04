@@ -1,0 +1,15 @@
+# Spring properties
+spring:
+  application:
+    name: invoice-system
+
+application:
+  title: Invoice Creation
+  description: Invoice Creation for EG India
+  version: v0.0.1
+
+server:
+  port: 8085
+  servlet:
+    context-path: /invoice-system
+  
